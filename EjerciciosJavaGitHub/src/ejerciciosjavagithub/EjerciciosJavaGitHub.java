@@ -22,6 +22,7 @@ public class EjerciciosJavaGitHub {
         s=n+m;
         System.out.println(s);
         System.out.println("Hola");
+        System.out.println("Me llamo Diego");
         
     }
     
