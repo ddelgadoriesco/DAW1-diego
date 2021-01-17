@@ -21,6 +21,7 @@ public class EjerciciosJavaGitHub {
         m=30;
         s=n+m;
         System.out.println(s);
+        System.out.println("Hola");
         
     }
     
